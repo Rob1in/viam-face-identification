@@ -1,10 +1,10 @@
-# viam-face-identification
+# viam-face-identification **IN PROGRESS**
 
 This is a [Viam module](https://docs.viam.com/extend/modular-resources/) providing a model of vision service for face identification relying on [deepface](https://github.com/serengil/deepface)
 
 ## Getting started
 
-To use this module, follow these instructions to [add a module from the Viam Registry](https://docs.viam.com/modular-resources/configure/#add-a-module-from-the-viam-registry) and select the `viam:vision:deepface_identification` model from the [`deepface_identification` module](https://app.viam.com/module/viam/deepface_identification).
+To use this module, follow these instructions to [add a module from the Viam Registry](https://docs.viam.com/modular-resources/configure/#add-a-module-from-the-viam-registry) and select the `viam:vision:deepface-identification` model from the [`deepface-identification` module](https://app.viam.com/module/viam/deepface_identification).
 This module implements the method `GetDetections()` of the [vision service API](https://docs.viam.com/services/vision/#api).
 
 ### Installation with `pip install` -> Not here yet
